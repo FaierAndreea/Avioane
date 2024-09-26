@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/ConsoleAvioane/bin/Debug/net8.0
+/ConsoleAvioane/obj
+/.vs/Avioane
